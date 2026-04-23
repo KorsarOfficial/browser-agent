@@ -1,0 +1,6 @@
+/target/
+/target2/
+.planning/
+*.exe
+*.pdb
+Cargo.lock
